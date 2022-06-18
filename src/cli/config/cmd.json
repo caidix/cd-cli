@@ -1,0 +1,9 @@
+{
+  "commandList": {
+    "TEMPLATE": {
+      "short": "t",
+      "full": "template",
+      "description": "模板名称"
+    }
+  }
+}

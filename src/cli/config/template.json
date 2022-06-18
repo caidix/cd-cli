@@ -1,0 +1,24 @@
+{
+  "templateList": [
+    {
+      "name": "webpack-vue2-template",
+      "git": "direct:https://github.com/caidix/webpack-vue-template.git#master",
+      "description": "vue2模板"
+    },
+    {
+      "name": "vue3-admin-template",
+      "git": "direct:https://github.com/crazy-designer/vite-vue3-admin-template.git#master",
+      "description": "vue2模板"
+    },
+    {
+      "name": "nest-service-template",
+      "git": "direct:https://github.com/crazy-designer/nest-server.git#master",
+      "description": "nest模板"
+    },
+    {
+      "name": "koa-admin-template",
+      "git": "direct:https://github.com/caidix/koa-admin-template.git#master",
+      "description": "koa2模板"
+    }
+  ]
+}
